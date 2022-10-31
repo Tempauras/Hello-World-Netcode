@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="60f295bc-c156-4413-ab03-c7106cc0c33d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +75,7 @@
       <workItem from="1667230068193" duration="50000" />
       <workItem from="1667230136365" duration="3000" />
       <workItem from="1667230168419" duration="10000" />
-      <workItem from="1667230257737" duration="320000" />
+      <workItem from="1667230257737" duration="1256000" />
     </task>
     <servers />
   </component>
