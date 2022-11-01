@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 
 using Unity.Netcode;
-using UnityEngine;
 
 public class HelloWorldPlayer : NetworkBehaviour
     {
@@ -47,3 +46,4 @@ public class HelloWorldPlayer : NetworkBehaviour
             transform.position = Position.Value;
         }
 }
+//More test
